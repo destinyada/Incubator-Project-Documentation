@@ -6,6 +6,8 @@ Data Analyst | Ex-Admin. Skilled in data organization, analysis, & clear communi
 ## Data Sources
 this is me trying to build my portfolio page
 
+![](My report.jpeg)
+
 ## Tools Used
 - Ms Excel [Download Here](www.microsoft.com)
 - Microsoft Power Bi
@@ -15,4 +17,13 @@ this is me trying to build my portfolio page
 Google Query
 ~~~
 
-![](My report.jpeg)
+
+![](My- report.jpeg)
+
+|Heading 1 | Heading 2 | Heading 3 |
+|----------| ----------| ----------|
+|Data 1| Data 2|Data 3|
+
+|Age | Sex | School |
+|----| ----| -------|
+|12|F|FCB|
