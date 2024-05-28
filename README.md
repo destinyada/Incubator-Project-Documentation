@@ -10,3 +10,6 @@ this is me trying to build my portfolio page
 - Ms Excel [Download Here](www.microsoft.com)
 - Microsoft Power Bi
 - SQL
+
+~~~
+Google Query
