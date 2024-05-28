@@ -6,7 +6,7 @@ Data Analyst | Ex-Admin. Skilled in data organization, analysis, & clear communi
 ## Data Sources
 this is me trying to build my portfolio page
 
-![](My report.jpeg)
+![](Report.jpeg)
 
 ## Tools Used
 - Ms Excel [Download Here](www.microsoft.com)
@@ -18,7 +18,7 @@ Google Query
 ~~~
 
 
-![](My- report.jpeg)
+![](Report.jpeg)
 
 |Heading 1 | Heading 2 | Heading 3 |
 |----------| ----------| ----------|
