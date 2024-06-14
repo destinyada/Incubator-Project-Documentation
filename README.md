@@ -32,17 +32,16 @@ Diving into the bootcamp participant data, I started with demographics. I was cu
 
 ## Data Visualization
 
-![](FCB Data.png) 
+![](FCB.png)
 
+## Key Takeaways
 
+Most survey participants were aged 26 to 35. This age group had twice as many respondents (115) as all other age groups combined With 58.08%, males were the majority gender in the survey. 
+- The survey showed the highest response rate (81.44%) among participants with HND/BSc qualifications.
+- Self-employed individuals made up 38.32% of the respondents in the survey on occupational levels.
+- The survey on marital status found 82.63% of respondents were single.
 
+## Conclusion
 
-![](FCB Data.png) 
+This data analysis provides valuable insights into the demographics and background of the bootcamp participants. Understanding these characteristics can be used to improve the program's outreach strategies, cater to diverse learning styles, and potentially predict student success based on prior qualifications.
 
-|Heading 1 | Heading 2 | Heading 3 |
-|----------| ----------| ----------|
-|Data 1| Data 2|Data 3|
-
-|Age | Sex | School |
-|----| ----| -------|
-|12|F|FCB|
