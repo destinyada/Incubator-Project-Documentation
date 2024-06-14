@@ -36,6 +36,7 @@ Diving into the bootcamp participant data, I started with demographics. I was cu
 
 
 
+
 ![](FCB Data.png) 
 
 |Heading 1 | Heading 2 | Heading 3 |
