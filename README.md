@@ -32,10 +32,11 @@ Diving into the bootcamp participant data, I started with demographics. I was cu
 
 ## Data Visualization
 
+![](FCB Data.png) 
 
 
 
-![](FCB Data.png)
+![](FCB Data.png) 
 
 |Heading 1 | Heading 2 | Heading 3 |
 |----------| ----------| ----------|
